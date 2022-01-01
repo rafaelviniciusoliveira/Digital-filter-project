@@ -1,7 +1,7 @@
 # Digital filter project
 
 ## Objectives
-This project was developed during the class of discrete signal precessing with the purpose of understand the use of digital filters.
+This project was developed during the class of discrete signal processing with the purpose of understand the use of digital filters.
 
 ## Steps
 * Import python tools
